@@ -1,7 +1,8 @@
+# -*- coding: utf-8 -*-
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line."
 backslash_cat = "I'm \\ a \\ cat."
-
+print"한글"
 fat_cat = """
 I'll do a list:
 \t* Cat food
