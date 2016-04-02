@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # contents above this is repeated twice
 # joke
 # this is played in april first
@@ -21,3 +22,4 @@ w = "This is the left side of..."
 e = "a string with a right side."
 
 print w + e
+
