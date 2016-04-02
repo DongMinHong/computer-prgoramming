@@ -7,8 +7,8 @@ teeth = 'White'
 hair = 'Brown'
 inch_to_cm= 2.54/1.0
 height_cm = height * inch_to_cm
-
-
+ed = 180/37.7
+print "let's about %g" % ed
 print "Let's talk about %s." % name
 print "He's %d inches tall." % height
 print "He's %d pounds heavy." % weight
