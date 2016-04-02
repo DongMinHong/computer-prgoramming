@@ -23,3 +23,5 @@ e = "a string with a right side."
 
 print w + e
 
+name= "dog"
+eval("name")
